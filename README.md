@@ -6,7 +6,7 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
 - 💡 My current studies are centered around Electronics Engineering, delving into the intricacies of hardware design, signal processing, and more.
 - 🖥️ Exploring Programming: While diving into the hardware world, I'm also developing proficiency in programming languages such as C and Java to complement my engineering skills.
 
-# Tecnologias
+### Tecnologias
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
   <div align="left">
     <div>
@@ -23,6 +23,7 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
     </div>
     <hr height="1">
   </div>
-## Github Stats 
+  
+###  Github Stats 
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&theme=radical)](https://github.com/gadivalr)
