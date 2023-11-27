@@ -23,7 +23,9 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
     </div>
     <hr height="1">
   </div>
+
   
-###  Github Stats 
+### Github Stats 
+
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&theme=radical)](https://github.com/gadivalr)
