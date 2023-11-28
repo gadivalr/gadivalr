@@ -6,8 +6,15 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
 - 💡 My current studies are centered around Electronics Engineering, delving into the intricacies of hardware design, signal processing, and more.
 - 🖥️ Exploring Programming: While diving into the hardware world, I'm also developing proficiency in programming languages such as C and Java to complement my engineering skills.
 
-### Tecnologias
-  
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" alt="gadivalr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadivalr&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
+
+</div>
+
+
+### Tecnologias  
   <div align="left">
     <div>
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
@@ -16,13 +23,13 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
-      <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=blue">
     </div>
-    <hr height="1">
+   
   </div>
 
   
 ### Github Stats 
 
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&theme=radical)](https://github.com/gadivalr)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadivalr&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
