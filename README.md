@@ -7,7 +7,7 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
 - 🖥️ Exploring Programming: While diving into the hardware world, I'm also developing proficiency in programming languages such as C and Java to complement my engineering skills.
 
 ### Tecnologias
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
+  
   <div align="left">
     <div>
       <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
