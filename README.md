@@ -1,9 +1,11 @@
 ### Hi there! 👋
-- :computer: Estudiante de Ingenieria Civil Electrónica.
-- :purple_heart: Criadora do servidor Purple Team no Discord.
-- :cat: Meu tema favorito em >tudo< é o [Catppuccin](https://github.com/catppuccin)
 
 
+I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting my personal blog where I share my thoughts, projects, and explorations in the tech world. You can check it out at gadivalr.ninja. ✨
+
+About Me 
+- :computer: My current studies are centered around Electronics Engineering, delving into the intricacies of hardware design, signal processing, and more.
+- 💡 Exploring Programming: While diving into the hardware world, I'm also developing proficiency in programming languages such as C and Java to complement my engineering skills.
 
 
 ### Tecnologias  
@@ -26,7 +28,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" alt="gadivalr github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=purple&text_color=c9d1d9&bg_color=0d1117" alt="gadivalr github stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadivalr&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 
 </div>
