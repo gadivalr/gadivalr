@@ -17,8 +17,8 @@ if __name__ == "__main__":
 ```
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" alt="gadivalr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadivalr&layout=compact&hide_border=true&title_color=be9b88&text_color=be9b88&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gadivalr&show_icons=true&count_private=true&hide_border=true&title_color=be9b88&icon_color=be9b88&text_color=c9d1d9&bg_color=0d1117" alt="gadivalr github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadivalr&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 
 </div>
 
@@ -26,14 +26,14 @@ if __name__ == "__main__":
 ### Tecnologias  
   <div align="left">
     <div>
-      <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="C" src="https://img.shields.io/badge/c-100000?style=for-the-badge&logo=c">
-      <img alt="Shell" src="https://img.shields.io/badge/shell-100000?style=for-the-badge&logo=shellscript">
-      <img alt="Powershell" src="https://img.shields.io/badge/powershell-100000?style=for-the-badge&logo=powershell">
-      <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=blue">
+      <img alt="Python" src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=blue">
+      <img alt="C" src="https://img.shields.io/badge/c-0d1117?style=for-the-badge&logo=c">
+      <img alt="Shell" src="https://img.shields.io/badge/shell-0d1117?style=for-the-badge&logo=shellscript">
+      <img alt="Powershell" src="https://img.shields.io/badge/powershell-0d1117?style=for-the-badge&logo=powershell">
+      <img alt="Git" src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue">
     </div>
    
   </div>
@@ -41,4 +41,4 @@ if __name__ == "__main__":
   
 ### Github Stats 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadivalr&bg_color=0d1117&color=be9b88&line=be9b88&point=be9b88&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadivalr&bg_color=0d1117&color=FFF&line=FFF&point=be9b88&area=true&hide_border=true)
