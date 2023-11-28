@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting my personal blog where I share my thoughts, projects, and explorations in the tech world. You can check it out at gadivalr.ninja. ✨
+I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting my personal blog where I share my thoughts, projects, and explorations in the tech world. You can check it out at [gadivalr.ninja](gadivalr.ninja). ✨
 
 About Me 
 - :computer: My current studies are centered around Electronics Engineering, delving into the intricacies of hardware design, signal processing, and more.
