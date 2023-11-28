@@ -1,4 +1,7 @@
 ### Hi there! 👋
+- :computer: Estudiante de Ingenieria Civil Electrónica.
+- :purple_heart: Criadora do servidor Purple Team no Discord.
+- :cat: Meu tema favorito em >tudo< é o [Catppuccin](https://github.com/catppuccin)
 
 
 
