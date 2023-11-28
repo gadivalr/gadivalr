@@ -13,7 +13,6 @@ About Me
     <div>
       <img alt="Python" src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=blue">
       <img alt="C" src="https://img.shields.io/badge/c-0d1117?style=for-the-badge&logo=c">
-      <img alt="Shell" src="https://img.shields.io/badge/shell-0d1117?style=for-the-badge&logo=shellscript">
       <img alt="Powershell" src="https://img.shields.io/badge/powershell-0d1117?style=for-the-badge&logo=powershell">
       <img alt="Git" src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github">
