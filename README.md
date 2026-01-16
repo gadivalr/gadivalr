@@ -24,9 +24,4 @@ I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting 
   </div>
 
   
-### Github Stats 
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadivalr&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
-
-</div>
 
