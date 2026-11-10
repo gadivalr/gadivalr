@@ -1,27 +1,32 @@
-### Hi there! 👋
+# Hola, soy Leví Sojos González 👋
 
+Estudiante de **Ingeniería Civil Electrónica** en la Universidad de Concepción, especializado en **Control Avanzado, Automatización y Robótica Industrial**. Me apasiona cerrar la brecha entre la teoría de control y la implementación real en hardware industrial.
 
-I'm Gadi, a tech enthusiast and programmer. Currently, I'm immersed in crafting my personal blog where I share my thoughts, projects, and explorations in the tech world. You can check it out at [https://gadivalr.github.io/](https://gadivalr.github.io/). ✨
+🚀 **[Visita mi Portafolio Web](https://gadivalr.github.io)**
 
-### About Me 
-- :computer: My current studies are centered around Electronics Engineering, delving into the intricacies of hardware design, signal processing, and more.
-- 💡 Exploring Programming: While diving into the hardware world, I'm also developing proficiency in programming languages such as C and Java to complement my engineering skills.
+---
 
+### 🛠️ Áreas de Especialización
+- **Control Avanzado:** Implementación y evaluación de **Aspen DMC3 Calibrate** (Control Predictivo Multivariable).
+- **Automatización Industrial:** Programación de PLCs **Allen-Bradley** en Ladder, SFC y Texto Estructurado.
+- **Robótica:** Modelado cinemático y control de brazos robóticos de **6 GDL**.
+- **Electrónica de Potencia:** Diseño y prototipado de convertidores (Flyback, etc.) con integración de telemetría en Python.
 
-### Tecnologias  
-  <div align="left">
-    <div>
-      <img alt="Python" src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=blue">
-      <img alt="C"
- src="https://img.shields.io/badge/c-0d1117?style=for-the-badge&logo=c">
-      <img alt="Powershell" src="https://img.shields.io/badge/powershell-0d1117?style=for-the-badge&logo=powershell">
-      <img alt="Git" src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue">
-    </div>
-   
-  </div>
+### 📁 Proyectos Destacados (en gadivalr.github.io)
+*   **01. Aspen DMC3 Calibrate:** Estudio de autosintonía en procesos industriales.
+*   **02. Control Difuso en PLC:** Estrategia Sugeno + Feedforward para planta de 4 tanques.
+*   **03. Convertidor Flyback 10W:** Diseño completo desde el transformador hasta la HMI en PySide6.
+*   **04. Control Batch Térmico:** Secuenciamiento SFC y Gain Scheduler para procesos no lineales.
 
-  
+### 🔧 Tecnologías y Herramientas
+- **Software:** MATLAB/Simulink, AspenTech DMC3, KiCad, Studio 5000, RSLogix.
+- **Lenguajes:** Python, C++, Texto Estructurado (IEC 61131-3).
+- **Web/Dev:** Astro, Tailwind CSS, Git/GitHub.
+
+---
+
+### 📫 Conectemos
+- **LinkedIn:** [linkedin.com/in/levsojos](https://www.linkedin.com/in/levsojos)
+- **Web:** [gadivalr.github.io](https://gadivalr.github.io)
+- **Email:** levsojos2021@udec.cl
 
